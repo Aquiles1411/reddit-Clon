@@ -1,0 +1,10 @@
+**TENER NODEJS INSTALADO**
+
+INSTALAR DEPENDENCIAS:
+npm install
+
+INSTALAR REACT-SCRIPT:
+npm install react-scripts
+
+EJECUTAR:
+npm start
